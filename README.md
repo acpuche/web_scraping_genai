@@ -1,3 +1,3 @@
 # web_scraping_genai
 
-![Arquitectura](https://github.com/acpuche/web_scraping_genai/tree/main/img/flujo.png)
+![Arquitectura](https://raw.githubusercontent.com/acpuche/web_scraping_genai/refs/heads/main/img/flujo.png)
