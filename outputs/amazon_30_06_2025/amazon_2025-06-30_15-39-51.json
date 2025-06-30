@@ -1,0 +1,1242 @@
+{
+    "internal": [
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496/#skippedLink",
+            "text": "Main content",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496/#twotabsearchtextbox",
+            "text": "Search\n\nalt\n+\n/",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/cart/view.html/?ref_=nav_assist",
+            "text": "Cart\n\nshift\n+\nalt\n+\nC",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/?ref_=nav_assist",
+            "text": "Home\n\nshift\n+\nalt\n+\nH",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/css/order-history/?ref_=nav_assist",
+            "text": "Orders\n\nshift\n+\nalt\n+\nO",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/ref=nav_logo",
+            "text": ".us",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang",
+            "text": "EN",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fhelp%2Fcustomer%2Fdisplay.html%2Fref%3Dnav_ya_signin%3Fie%3DUTF8%26nodeId%3D468496&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+            "text": "Hello, sign in\nAccount & Lists",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/css/order-history?ref_=nav_orders_first",
+            "text": "Returns\n& Orders",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/cart/view.html?ref_=nav_cart",
+            "text": "0\n\n\n\n\n\n\n        Cart",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fhelp%2Fcustomer%2Fdisplay.html%2Fref%3Dnav_signin%3Fie%3DUTF8%26nodeId%3D468496&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+            "text": "Sign in",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/ap/register?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fhelp%2Fcustomer%2Fdisplay.html%2Fref%3Dfooter_privacy%2F%3Fie%3DUTF8%26nodeId%3D468496%26ref_%3Dnav_newcust&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+            "text": "Start here.",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/hz/wishlist/ls?triggerElementID=createList&ref_=nav_ListFlyout_navFlyout_createList_lv_redirect",
+            "text": "Create a List",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/registries?ref_=nav_ListFlyout_find",
+            "text": "Find a List or Registry",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/css/homepage.html?ref_=nav_AccountFlyout_ya",
+            "text": "Account",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/css/order-history?ref_=nav_AccountFlyout_orders",
+            "text": "Orders",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/yourstore?ref_=nav_AccountFlyout_recs",
+            "text": "Recommendations",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/history?ref_=nav_AccountFlyout_browsinghistory",
+            "text": "Browsing History",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/credit/landing?ref_=nav_AccountFlyout_ya_amazon_cc_landing_ms",
+            "text": "Amazon Credit Cards",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/video/watchlist?ref_=nav_AccountFlyout_ywl",
+            "text": "Watchlist",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/video/library?ref_=nav_AccountFlyout_yvl",
+            "text": "Video Purchases & Rentals",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/kindle/ku/ku_central?ref_=nav_AccountFlyout_ku",
+            "text": "Kindle Unlimited",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/hz/mycd/myx?pageType=content&ref_=nav_AccountFlyout_myk",
+            "text": "Content & Devices",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/subscribe-and-save/manager/viewsubscriptions?ref_=nav_AccountFlyout_sns",
+            "text": "Subscribe & Save Items",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/hz5/yourmembershipsandsubscriptions?ref_=nav_AccountFlyout_digital_subscriptions",
+            "text": "Memberships & Subscriptions",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/subs/primeclub/account/homepage.html?ref_=nav_AccountFlyout_prime",
+            "text": "Prime Membership",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://music.amazon.com?ref=nav_youraccount_cldplyr",
+            "text": "Music Library",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/b/?node=12766669011&ld=AZUSSOA-yaflyout&ref_=nav_AccountFlyout_cs_sell",
+            "text": "Start a Selling Account",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/browse.html?node=11261610011&ref_=nav_AccountFlyout_b2b_reg_bottom",
+            "text": "Register for a free Business Account",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/hz/contact-us?ref_=nav_AccountFlyout_CS",
+            "text": "Customer Service",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/haul/store?ref_=nav_cs_hul_disb",
+            "text": "Amazon Haul",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://health.amazon.com/prime?ref_=nav_cs_all_health_ingress_onem_h",
+            "text": "Medical Care",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/luxurystores/saks?ref_=nav_cs_saks_disc",
+            "text": "Saks",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/bestsellers/?ref_=nav_cs_bestsellers",
+            "text": "Best Sellers",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/Amazon_Basics?channel=discovbar&field-lbr_brands_browse-bin=AmazonBasics&ref_=nav_cs_amazonbasics",
+            "text": "Amazon Basics",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/new-releases/?ref_=nav_cs_newreleases",
+            "text": "New Releases",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/browse.html?node=16115931011&ref_=nav_cs_registry",
+            "text": "Registry",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/fmc/learn-more?ref_=nav_cs_groceries",
+            "text": "Groceries",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc",
+            "text": "Gift Cards",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/Smart-Home/b/?ie=UTF8&node=6563140011&ref_=nav_cs_smart_home",
+            "text": "Smart Home",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/deals?ref_=nav_cs_gb",
+            "text": "Today's Deals",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/prime?ref_=nav_cs_primelink_nonmember",
+            "text": "Prime",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/music/player?ref_=nav_cs_music",
+            "text": "Music",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=nav_cs_fs_hub_navbar_c",
+            "text": "Customer Service",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/books-used-books-textbooks/b/?ie=UTF8&node=283155&ref_=nav_cs_books",
+            "text": "Books",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://pharmacy.amazon.com/?nodl=0&ref_=nav_cs_pharmacy",
+            "text": "Pharmacy",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/luxurystores?ref_=nav_cs_luxury",
+            "text": "Luxury Stores",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/?ie=UTF8&node=1055398&ref_=nav_cs_home",
+            "text": "Amazon Home",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/amazon-fashion/b/?ie=UTF8&node=7141123011&ref_=nav_cs_fashion",
+            "text": "Fashion",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/finds?ref_=nav_cs_foundit",
+            "text": "Shop By Interest",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/toys/b/?ie=UTF8&node=165793011&ref_=nav_cs_toys",
+            "text": "Toys & Games",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/Beauty-Makeup-Skin-Hair-Products/b/?ie=UTF8&node=3760911&ref_=nav_cs_beauty",
+            "text": "Beauty & Personal Care",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell",
+            "text": "Sell",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/automotive-auto-truck-replacements-parts/b/?ie=UTF8&node=15684181&ref_=nav_cs_automotive",
+            "text": "Automotive",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/Tools-and-Home-Improvement/b/?ie=UTF8&node=228013&ref_=nav_cs_hi",
+            "text": "Home Improvement",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/?ie=UTF8&node=541966&ref_=nav_cs_pc",
+            "text": "Computers",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/sports-outdoors/b/?ie=UTF8&node=3375251&ref_=nav_cs_sports",
+            "text": "Sports & Outdoors",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gcx/Gifts-for-Everyone/gfhz/?ref_=nav_cs_giftfinder",
+            "text": "Gift Shop",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/primeday/?_encoding=UTF8&ref_=nav_swm_US_PD25_LU_GW_SWM_Announce&pf_rd_p=72020f4f-d636-4d60-9e39-399532eba237&pf_rd_s=nav-sitewide-msg-text&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=ZB7QFNXZKQSKX3ZNJEMK",
+            "text": "Prime Day is July 8-11",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?ref_=hp_bc_anchor&nodeId=G508510",
+            "text": "Help & Customer Service",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?ref_=hp_bc_nav&nodeId=GRFTMVHP4HXMESSP",
+            "text": "Security and Privacy",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?ref_=hp_bc_nav&nodeId=GWFZQ8U37JV9AUT5",
+            "text": "Legal Policies",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?nodeId=202056900",
+            "text": "here",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GC5HB5DVMU5Y8CJ2",
+            "text": "Additional State-Specific Privacy Disclosures",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?nodeId=TnACMrGVghHocjL8KB",
+            "text": "Consumer Health Data Privacy Disclosure",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496/#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_467C686A137847768F44B619694D3F7C",
+            "text": "What Personal Information About Customers Does Amazon Collect?",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496/#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_7CE768C1281346DAAF87CE795E8B3610",
+            "text": "For What Purposes Does Amazon Use Your Personal Information?",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496/#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_0D132936501A4AE0A2F8D74426A8A2CA",
+            "text": "What About Cookies and Other Identifiers?",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496/#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_3DF674DAB5B7439FB2A9B4465BC3E0AC",
+            "text": "Does Amazon Share Your Personal Information?",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496/#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_277A1D99140544EE9259ACA749AE3C3D",
+            "text": "How Secure Is Information About Me?",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496/#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_3F77537F901B4157B0CBD26834827652",
+            "text": "What About Advertising?",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496/#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_002EF744608C4F9CAA7685BECC6C85FC",
+            "text": "What Information Can I Access?",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496/#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_697E8F46A0354B3B83E1A0D4C2FA52EE",
+            "text": "What Choices Do I Have?",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496/#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_D17374D6EE5B4077946965351E11175C",
+            "text": "Are Children Allowed to Use Amazon Services?",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496/#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_A110DAC3F6BC4D5D9DDD59797104B1E5",
+            "text": "EU-US Data Privacy Framework, UK Extension, and Swiss-US Data Privacy Framework",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496/#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_BA2E1D5A9B1F41CB86BCF0A40D9B8604",
+            "text": "Conditions of Use, Notices, and Revisions",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496/#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_644071FEF22E48A2A160BAA332F95B27",
+            "text": "Related Practices and Information",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496/#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01",
+            "text": "Examples of Information Collected",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GVP69FUJ48X9DK8V",
+            "text": "here",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/ibanotice",
+            "text": "Interest-Based Ads",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/cookies",
+            "text": "Cookies Notice",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM",
+            "text": "Conditions of Use",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?nodeId=200127470",
+            "text": "here",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GQL359FK7DM8294C",
+            "text": "here",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/privacyprefs?ref_=footer_iba",
+            "text": "Your Ads Privacy Choices",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/contact-us",
+            "text": "Customer Service",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/cpc/homepage?ref=gss_to_cpc",
+            "text": "Customer Communication Preferences",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201293120",
+            "text": "here",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/yourstore/iyr/",
+            "text": "here",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/yourstore/home",
+            "text": "here",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/history/",
+            "text": "here",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GQFYXZHZB2H629WN",
+            "text": "here",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://sellercentral.amazon.com",
+            "text": "Seller Central",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://sellercentral.amazon.com/hz/sc/account-information",
+            "text": "Seller Account Information",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://sellercentral.amazon.com/notifications/preferences/ref=xx_notifpref_dnav_xx",
+            "text": "Notification Preferences",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://authorcentral.amazon.com/gp/help?topicID=200649520",
+            "text": "Author Portal",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://authorcentral.amazon.com/",
+            "text": "Author Central",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/store-analytics",
+            "text": "here",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/hz/contact-us/request-data",
+            "text": "Data Privacy Queries",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/childprivacydisclosure",
+            "text": "Children's Privacy Disclosure",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?nodeId=G202135380",
+            "text": "here",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://sellercentral.amazon.com/help/hub/reference/external/G521?locale=en-US",
+            "text": "Seller Program Policies",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/hz/contact-us/foresight/hubgateway",
+            "text": "Help pages",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/your-orders",
+            "text": "Most Recent Purchases",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GLHXEX85MENUE4XF",
+            "text": "Community Guidelines",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/css/homepage.html/ref=hp_468496_youraccount",
+            "text": "Your Account",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/pdp/profile",
+            "text": "Your Profile",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://kdp.amazon.com",
+            "text": "Kindle Direct Publishing",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://developer.amazon.com/",
+            "text": "Developer",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/registry/wishlist-homepage.html/ref=hp_468496_wishlist2",
+            "text": "Wish Lists",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?nodeId=G4N2FJ6WB9RDPEHW",
+            "text": "Reviews",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?nodeId=569162",
+            "text": "Product Availability Alerts",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/bestsellers",
+            "text": "Top Sellers",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://kdp.amazon.com/",
+            "text": "Kindle Direct Publishing (KDP)",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html",
+            "text": "All Help Topics",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?ref_=hp_left_v4_sib&nodeId=TnACMrGVghHocjL8KB",
+            "text": "Consumer Health Data Privacy Disclosure",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?ref_=hp_left_v4_sib&nodeId=G202074990",
+            "text": "3rd Party Licensing Notice",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?ref_=hp_left_v4_sib&nodeId=GA75EXWGGZPEFSQS",
+            "text": "AMAZON INFLUENCER TERMS & CONDITIONS FOR SPONSORED CONTENT",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?ref_=hp_left_v4_sib&nodeId=GLSBYFE9MGKKQXXM",
+            "text": "Conditions of Use",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?ref_=hp_left_v4_sib&nodeId=TJdfxer16CN6ccVar2",
+            "text": "Communications with Amazon Employees",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?ref_=hp_left_v4_sib&nodeId=G202137190",
+            "text": "Amazon Group Companies",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?ref_=hp_left_v4_sib&nodeId=GNYNL3A8HPATWCH8",
+            "text": "Amazon Trademark Usage Guidelines",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?ref_=hp_left_v4_sib&nodeId=GCX77V9988LUPMB2",
+            "text": "Non-Exhaustive List of Amazon Trademarks",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?ref_=hp_left_v4_sib&nodeId=G202075070",
+            "text": "Amazon.com Gift Card and Electronic Message Customization Service Terms",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/css/order-history/ref=hp_ss_qs_v3_rt_yo",
+            "text": "Your Orders\n                                                Track or cancel orders\n                                            \n\n\n\n                                                Your Orders\n                                            \n\n                                                Track or cancel orders",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/css/order-history/ref=hp_ss_qs_v3_rt_rr",
+            "text": "Returns & Refunds\n                                                Exchange or return items\n                                            \n\n\n\n                                                Returns & Refunds\n                                            \n\n                                                Exchange or return items",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/primecentral/ref=hp_ss_qs_v3_rt_mp",
+            "text": "Manage Prime\n                                                Cancel or view benefits\n                                            \n\n\n\n                                                Manage Prime\n                                            \n\n                                                Cancel or view benefits",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/wallet/ref=hp_ss_qs_v3_rt_ps",
+            "text": "Payment Settings\n                                                Add or edit payment methods\n                                            \n\n\n\n                                                Payment Settings\n                                            \n\n                                                Add or edit payment methods",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&ref_=hp_ss_qs_v3_rt_ci&nodeId=201117350",
+            "text": "Carrier Info\n                                                Shipping carrier information\n                                            \n\n\n\n                                                Carrier Info\n                                            \n\n                                                Shipping carrier information",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.pape.max_auth_age=0&            openid.return_to=https://www.amazon.com/gp/css/homepage.html?ie=UTF8&ref_=ya_cnep            &openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=usflex&            openid.ns.pape=http://specs.openid.net/extensions/pape/1.0            &openid.mode=checkid_setup&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&            openid.ns=http://specs.openid.net/auth/2.0&ref_=hp_ss_qs_v3_rt_as",
+            "text": "Account Settings\n                                                Change email or password\n                                            \n\n\n\n                                                Account Settings\n                                            \n\n                                                Change email or password",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://email.aboutamazon.com/l/637851/2020-10-29/pd87g?utm_source=gateway&utm_medium=amazonfooters&utm_campaign=newslettersubscribers&utm_content=amazonnewssignup",
+            "text": "Amazon Newsletter",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer&token=about",
+            "text": "About Amazon",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/b?node=15701038011&ie=UTF8",
+            "text": "Accessibility",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://sustainability.aboutamazon.com/?utm_source=gateway&utm_medium=footer&ref_=susty_footer",
+            "text": "Sustainability",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/pr",
+            "text": "Press Center",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/ir",
+            "text": "Investor Relations",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/browse.html?node=2102313011&ref_=footer_devices",
+            "text": "Amazon Devices",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://sell.amazon.com/?ld=AZFSSOA_FTSELL-C&ref_=footer_soa",
+            "text": "Sell on Amazon",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://developer.amazon.com",
+            "text": "Sell apps on Amazon",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://supply.amazon.com",
+            "text": "Supply to Amazon",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://sell.amazon.com/brand-registry?ld=AZUSSOA_ABR-FT",
+            "text": "Protect & Build Your Brand",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://affiliate-program.amazon.com/",
+            "text": "Become an Affiliate",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://logistics.amazon.com/marketing?utm_source=amzn&utm_medium=footer&utm_campaign=home",
+            "text": "Start a Package Delivery Business",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://advertising.amazon.com/?ref=ext_amzn_ftr",
+            "text": "Advertise Your Products",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/seller-account/mm-summary-page.html?ld=AZFooterSelfPublish&topic=200260520&ref_=footer_publishing",
+            "text": "Self-Publish with Us",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/b/?node=120788043011",
+            "text": "Become an Amazon Hub Partner",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/b/?node=18190131011&ld=AZUSSOA-seemore&ref_=footer_seemore",
+            "text": "See More Ways to Make Money",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/iss/credit/rewardscardmember?plattr=CBFOOT&ref_=footer_cbcc",
+            "text": "Amazon Visa",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/credit/storecard/member?plattr=PLCCFOOT&ref_=footer_plcc",
+            "text": "Amazon Store Card",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/dp/product/B084KP3NG6?plattr=SCFOOT&ref_=footer_ACB",
+            "text": "Amazon Secured Card",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/dp/B07984JN3L?plattr=ACOMFO&ie=UTF-8",
+            "text": "Amazon Business Card",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/hp/shopwithpoints/servicing",
+            "text": "Shop with Points",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/browse.html?node=3561432011&ref_=footer_ccmp",
+            "text": "Credit Card Marketplace",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/browse.html?node=10232440011&ref_=footer_reload_us",
+            "text": "Reload Your Balance",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/b/?node=2238192011&ref=shop_footer_payments_gc_desktop",
+            "text": "Gift Cards",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/browse.html?node=388305011&ref_=footer_tfx",
+            "text": "Amazon Currency Converter",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/css/homepage.html?ref_=footer_ya",
+            "text": "Your Account",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/css/order-history?ref_=footer_yo",
+            "text": "Your Orders",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?nodeId=468520&ref_=footer_shiprates",
+            "text": "Shipping Rates & Policies",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/prime?ref_=footer_prime",
+            "text": "Amazon Prime",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/css/returns/homepage.html?ref_=footer_hy_f_4",
+            "text": "Returns & Replacements",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/hz/mycd/myx?ref_=footer_myk",
+            "text": "Manage Your Content and Devices",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/product-safety-alerts?ref_=footer_bsx_ypsa",
+            "text": "Recalls and Product Safety Alerts",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/registries?ref_=nav_footer_registry_giftlist_desktop",
+            "text": "Registry & Gift List",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=footer_gw_m_b_he",
+            "text": "Help",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/?ref_=footer_logo",
+            "text": "",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang",
+            "text": "English",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/customer-preferences/country?ie=UTF8&preferencesReturnUrl=%2Fgp%2Fhelp%2Fcustomer%2Fdisplay.html%2Fref%3Dfooter_privacy%3Fie%3DUTF8%26nodeId%3D468496&ref_=footer_icp_cp",
+            "text": "United States",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://music.amazon.com?ref=dm_aff_amz_com",
+            "text": "Amazon MusicStream millionsof songs",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://advertising.amazon.com/?ref=footer_advtsing_amzn_com",
+            "text": "Amazon AdsReach customerswherever theyspend their time",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://sell.amazon.com/?ld=AZUSSOA-footer-aff&ref_=footer_sell",
+            "text": "Sell on AmazonStart a Selling Account",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/business?ref_=footer_retail_b2b",
+            "text": "Amazon BusinessEverything ForYour Business",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/alm/storefront?almBrandId=QW1hem9uIEZyZXNo&ref_=footer_aff_fresh",
+            "text": "Amazon FreshGroceries & MoreRight To Your Door",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/browse.html?node=230659011&ref_=footer_amazonglobal",
+            "text": "AmazonGlobalShip OrdersInternationally",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/services?ref_=footer_services",
+            "text": "Home ServicesExperienced ProsHappiness Guarantee",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&sc_campaign=amazonfooter",
+            "text": "Amazon Web ServicesScalable CloudComputing Services",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/browse.html?node=13234696011&ref_=_gno_p_foot",
+            "text": "Amazon PhotosUnlimited Photo StorageFree With Prime",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://videodirect.amazon.com/home/landing",
+            "text": "Prime Video DirectVideo DistributionMade Easy",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/browse.html?node=10158976011&ref_=footer_wrhsdls",
+            "text": "Amazon ResaleGreat Deals onQuality Used Products",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/browse.html?node=14498690011&ref_=amzn_nav_ftr_swa",
+            "text": "Amazon Subscription BoxesTop subscription boxes - right to your door",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/browse.html?node=12653393011&ref_=footer_usrenew",
+            "text": "Amazon RenewedLike-new productsyou can trust",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?nodeId=508088&ref_=footer_cou",
+            "text": "Conditions of Use",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?nodeId=468496&ref_=footer_privacy",
+            "text": "Privacy Notice",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=TnACMrGVghHocjL8KB&ref_=footer_consumer_health_data_privacy",
+            "text": "Consumer Health Data Privacy Disclosure",
+            "title": "",
+            "base_domain": "amazon.com"
+        }
+    ],
+    "external": [
+        {
+            "href": "javascript: void(0)",
+            "text": "All",
+            "title": "",
+            "base_domain": ""
+        },
+        {
+            "href": "https://www.amazon.jobs",
+            "text": "Careers",
+            "title": "",
+            "base_domain": "amazon.jobs"
+        },
+        {
+            "href": "https://www.amazon.science",
+            "text": "Amazon Science",
+            "title": "",
+            "base_domain": "amazon.science"
+        },
+        {
+            "href": "https://www.fountain.com/jobs/amazon-delivery-service-partner?utm_source=amazon.com&utm_medium=footer",
+            "text": "Become a Delivery Driver",
+            "title": "",
+            "base_domain": "fountain.com"
+        },
+        {
+            "href": "https://www.6pm.com",
+            "text": "6pmScore dealson fashion brands",
+            "title": "",
+            "base_domain": "6pm.com"
+        },
+        {
+            "href": "https://www.abebooks.com",
+            "text": "AbeBooksBooks, art& collectibles",
+            "title": "",
+            "base_domain": "abebooks.com"
+        },
+        {
+            "href": "https://www.acx.com/",
+            "text": "ACX Audiobook PublishingMade Easy",
+            "title": "",
+            "base_domain": "acx.com"
+        },
+        {
+            "href": "https://www.veeqo.com/?utm_source=amazon&utm_medium=website&utm_campaign=footer",
+            "text": "VeeqoShipping SoftwareInventory Management",
+            "title": "",
+            "base_domain": "veeqo.com"
+        },
+        {
+            "href": "https://www.audible.com",
+            "text": "AudibleListen to Books & OriginalAudio Performances",
+            "title": "",
+            "base_domain": "audible.com"
+        },
+        {
+            "href": "https://www.boxofficemojo.com/?ref_=amzn_nav_ftr",
+            "text": "Box Office MojoFind MovieBox Office Data",
+            "title": "",
+            "base_domain": "boxofficemojo.com"
+        },
+        {
+            "href": "https://www.goodreads.com",
+            "text": "GoodreadsBook reviews& recommendations",
+            "title": "",
+            "base_domain": "goodreads.com"
+        },
+        {
+            "href": "https://www.imdb.com",
+            "text": "IMDbMovies, TV& Celebrities",
+            "title": "",
+            "base_domain": "imdb.com"
+        },
+        {
+            "href": "https://pro.imdb.com?ref_=amzn_nav_ftr",
+            "text": "IMDbProGet Info EntertainmentProfessionals Need",
+            "title": "",
+            "base_domain": "imdb.com"
+        },
+        {
+            "href": "https://www.shopbop.com",
+            "text": "ShopbopDesignerFashion Brands",
+            "title": "",
+            "base_domain": "shopbop.com"
+        },
+        {
+            "href": "https://www.wholefoodsmarket.com",
+            "text": "Whole Foods MarketAmerica\u2019s HealthiestGrocery Store",
+            "title": "",
+            "base_domain": "wholefoodsmarket.com"
+        },
+        {
+            "href": "https://www.woot.com/",
+            "text": "Woot!Deals and Shenanigans",
+            "title": "",
+            "base_domain": "woot.com"
+        },
+        {
+            "href": "https://www.zappos.com",
+            "text": "ZapposShoes &Clothing",
+            "title": "",
+            "base_domain": "zappos.com"
+        },
+        {
+            "href": "https://ring.com",
+            "text": "RingSmart HomeSecurity Systems",
+            "title": "",
+            "base_domain": "ring.com"
+        },
+        {
+            "href": "https://eero.com/",
+            "text": "eero WiFiStream 4K Videoin Every Room",
+            "title": "",
+            "base_domain": "eero.com"
+        },
+        {
+            "href": "https://blinkforhome.com/?ref=nav_footer",
+            "text": "BlinkSmart Securityfor Every Home",
+            "title": "",
+            "base_domain": "blinkforhome.com"
+        },
+        {
+            "href": "https://shop.ring.com/pages/neighbors-app",
+            "text": "Neighbors App  Real-Time Crime& Safety Alerts",
+            "title": "",
+            "base_domain": "ring.com"
+        },
+        {
+            "href": "https://www.pillpack.com",
+            "text": "PillPackPharmacy Simplified",
+            "title": "",
+            "base_domain": "pillpack.com"
+        }
+    ]
+}

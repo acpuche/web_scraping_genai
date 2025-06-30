@@ -1,0 +1,286 @@
+{
+    "internal": [
+        {
+            "href": "https://www.amazon.com/haul/store?ref_=nav_cs_hul_disb",
+            "text": "Amazon Haul",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://health.amazon.com/prime?ref_=nav_cs_all_health_ingress_onem_h",
+            "text": "Medical Care",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/luxurystores/saks?ref_=nav_cs_saks_disc",
+            "text": "Saks",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/bestsellers/?ref_=nav_cs_bestsellers",
+            "text": "Best Sellers",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/Amazon_Basics?channel=discovbar&field-lbr_brands_browse-bin=AmazonBasics&ref_=nav_cs_amazonbasics",
+            "text": "Amazon Basics",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/new-releases/?ref_=nav_cs_newreleases",
+            "text": "New Releases",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/browse.html?node=16115931011&ref_=nav_cs_registry",
+            "text": "Registry",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/fmc/learn-more?ref_=nav_cs_groceries",
+            "text": "Groceries",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc",
+            "text": "Gift Cards",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/Smart-Home/b/?ie=UTF8&node=6563140011&ref_=nav_cs_smart_home",
+            "text": "Smart Home",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/deals?ref_=nav_cs_gb",
+            "text": "Today's Deals",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/prime?ref_=nav_cs_primelink_nonmember",
+            "text": "Prime",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/music/player?ref_=nav_cs_music",
+            "text": "Music",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/books-used-books-textbooks/b/?ie=UTF8&node=283155&ref_=nav_cs_books",
+            "text": "Books",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://pharmacy.amazon.com/?nodl=0&ref_=nav_cs_pharmacy",
+            "text": "Pharmacy",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/luxurystores?ref_=nav_cs_luxury",
+            "text": "Luxury Stores",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/?ie=UTF8&node=1055398&ref_=nav_cs_home",
+            "text": "Amazon Home",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/amazon-fashion/b/?ie=UTF8&node=7141123011&ref_=nav_cs_fashion",
+            "text": "Fashion",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/finds?ref_=nav_cs_foundit",
+            "text": "Shop By Interest",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/toys/b/?ie=UTF8&node=165793011&ref_=nav_cs_toys",
+            "text": "Toys & Games",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/Beauty-Makeup-Skin-Hair-Products/b/?ie=UTF8&node=3760911&ref_=nav_cs_beauty",
+            "text": "Beauty & Personal Care",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/automotive-auto-truck-replacements-parts/b/?ie=UTF8&node=15684181&ref_=nav_cs_automotive",
+            "text": "Automotive",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/Tools-and-Home-Improvement/b/?ie=UTF8&node=228013&ref_=nav_cs_hi",
+            "text": "Home Improvement",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/?ie=UTF8&node=541966&ref_=nav_cs_pc",
+            "text": "Computers",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/sports-outdoors/b/?ie=UTF8&node=3375251&ref_=nav_cs_sports",
+            "text": "Sports & Outdoors",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gcx/Gifts-for-Everyone/gfhz/?ref_=nav_cs_giftfinder",
+            "text": "Gift Shop",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/b/?node=2102313011&ref_=footer_devices",
+            "text": "Amazon Devices",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/iss/credit/rewardscardmember?plattr=CBFOOT&ref_=footer_cbcc",
+            "text": "Amazon Visa",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/credit/storecard/member?plattr=PLCCFOOT&ref_=footer_plcc",
+            "text": "Amazon Store Card",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/dp/product/B084KP3NG6?plattr=SCFOOT&ref_=footer_ACB",
+            "text": "Amazon Secured Card",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/dp/B07984JN3L?plattr=ACOMFO&ie=UTF-8",
+            "text": "Amazon Business Card",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/hp/shopwithpoints/servicing",
+            "text": "Shop with Points",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/browse.html?node=3561432011&ref_=footer_ccmp",
+            "text": "Credit Card Marketplace",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/browse.html?node=10232440011&ref_=footer_reload_us",
+            "text": "Reload Your Balance",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/b/?node=2238192011&ref=shop_footer_payments_gc_desktop",
+            "text": "Gift Cards",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/browse.html?node=388305011&ref_=footer_tfx",
+            "text": "Amazon Currency Converter",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/prime?ref_=footer_prime",
+            "text": "Amazon Prime",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/hz/mycd/myx?ref_=footer_myk",
+            "text": "Manage Your Content and Devices",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/product-safety-alerts?ref_=footer_bsx_ypsa",
+            "text": "Recalls and Product Safety Alerts",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/registries?ref_=nav_footer_registry_giftlist_desktop",
+            "text": "Registry & Gift List",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/alm/storefront?almBrandId=QW1hem9uIEZyZXNo&ref_=footer_aff_fresh",
+            "text": "Amazon FreshGroceries & MoreRight To Your Door",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/browse.html?node=230659011&ref_=footer_amazonglobal",
+            "text": "AmazonGlobalShip OrdersInternationally",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/services?ref_=footer_services",
+            "text": "Home ServicesExperienced ProsHappiness Guarantee",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/browse.html?node=13234696011&ref_=_gno_p_foot",
+            "text": "Amazon PhotosUnlimited Photo StorageFree With Prime",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/browse.html?node=10158976011&ref_=footer_wrhsdls",
+            "text": "Amazon ResaleGreat Deals onQuality Used Products",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/browse.html?node=14498690011&ref_=amzn_nav_ftr_swa",
+            "text": "Amazon Subscription BoxesTop subscription boxes - right to your door",
+            "title": "",
+            "base_domain": "amazon.com"
+        },
+        {
+            "href": "https://www.amazon.com/gp/browse.html?node=12653393011&ref_=footer_usrenew",
+            "text": "Amazon RenewedLike-new productsyou can trust",
+            "title": "",
+            "base_domain": "amazon.com"
+        }
+    ]
+}
