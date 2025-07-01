@@ -1,0 +1,525 @@
+{
+    "internal": [
+        {
+            "href": "https://www.mercadolibre.com.co/categorias#nav-header",
+            "text": "Categorias",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/vehiculos/#menu=categories",
+            "text": "Vehiculos",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/ofertas/supermercado#menu=categories",
+            "text": "Supermercado",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/#/",
+            "text": "Tecnologia",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/electrodomesticos#menu=categories",
+            "text": "Electrodomesticos",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/hogar-y-muebles#menu=categories",
+            "text": "Hogar y Muebles",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/deportes-y-fitness#menu=categories",
+            "text": "Deportes y Fitness",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/belleza-y-cuidado-personal#menu=categories",
+            "text": "Belleza y Cuidado Personal",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/accesorios-para-vehiculos#menu=categories",
+            "text": "Accesorios para Vehiculos",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/herramientas#menu=categories",
+            "text": "Herramientas",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/construccion#menu=categories",
+            "text": "Construccion",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/animales-y-mascotas#menu=categories",
+            "text": "Mascotas",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/inmuebles/#menu=categories",
+            "text": "Inmuebles",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/importados/compra-internacional#menu=categories&origin=home",
+            "text": "Compra Internacional",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/ropa-y-accesorios#menu=categories",
+            "text": "Moda",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/juegos-y-juguetes#menu=categories",
+            "text": "Juegos y Juguetes",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/bebes#menu=categories",
+            "text": "Bebes",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/productos-sustentables#menu=categories",
+            "text": "Productos Sustentables",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/mas-vendidos#menu=categories",
+            "text": "Mas vendidos",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/salud-y-equipamiento-medico#menu=categories",
+            "text": "Salud y Equipamiento Medico",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/industrias-y-oficinas#menu=categories",
+            "text": "Industrias y Oficinas",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/servicios#menu=categories",
+            "text": "Servicios",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/tiendas-oficiales#menu=categories",
+            "text": "Tiendas oficiales",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/categorias#menu=categories",
+            "text": "Ver mas categorias",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/celulares-y-telefonos#menu=categories",
+            "text": "Celulares y Telefonos",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://listado.mercadolibre.com.co/celulares-telefonos/celulares-smartphones/#menu=categories",
+            "text": "Celulares y Smartphones",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://listado.mercadolibre.com.co/celulares-telefonos/accesorios-celulares/#menu=categories",
+            "text": "Accesorios para Celulares",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://listado.mercadolibre.com.co/celulares-telefonos/smartwatches-accesorios/smartwatches/#menu=categories",
+            "text": "Smartwatches",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/computacion#menu=categories",
+            "text": "Computacion",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://listado.mercadolibre.com.co/computacion/tablets-accesorios/tablets/#menu=categories",
+            "text": "Tablets",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://listado.mercadolibre.com.co/computacion/portatiles-accesorios/portatiles/#menu=categories",
+            "text": "Portatiles",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://listado.mercadolibre.com.co/computacion/pc-escritorio/computadores/#menu=categories",
+            "text": "Computadores",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://listado.mercadolibre.com.co/computacion/portatiles-accesorios/accesorios-portatiles/#menu=categories",
+            "text": "Accesorios para Portatiles",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://listado.mercadolibre.com.co/computacion/impresion/impresoras/#menu=categories",
+            "text": "Impresoras",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://listado.mercadolibre.com.co/computacion/conectividad-redes/#menu=categories",
+            "text": "Conectividad y Redes",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/camaras-y-accesorios#menu=categories",
+            "text": "Camaras y Accesorios",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://listado.mercadolibre.com.co/camaras-accesorios/camaras/#menu=categories",
+            "text": "Camaras",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://listado.mercadolibre.com.co/camaras-accesorios/accesorios-camaras/#menu=categories",
+            "text": "Accesorios para Camaras",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://listado.mercadolibre.com.co/instrumentos-opticos/#menu=categories",
+            "text": "Instrumentos Opticos",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/electronica-audio-y-video#menu=categories",
+            "text": "Electronica, Audio y Video",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://listado.mercadolibre.com.co/electronica-audio-video/accesorios-audio-video/#menu=categories",
+            "text": "Accesorios Audio y Video",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://listado.mercadolibre.com.co/electronica-audio-video/audio/equipos-dj-accesorios/#menu=categories",
+            "text": "Equipos de DJ y Accesorios",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://listado.mercadolibre.com.co/electronica-audio-video/drones-accesorios/#menu=categories",
+            "text": "Drones y Accesorios",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://listado.mercadolibre.com.co/electronica-audio-video/audio/#menu=categories",
+            "text": "Audio",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://listado.mercadolibre.com.co/electronica-audio-video/componentes-electronicos/#menu=categories",
+            "text": "Componentes Electronicos",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/consolas-y-videojuegos#menu=categories",
+            "text": "Consolas y Videojuegos",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://listado.mercadolibre.com.co/consolas-videojuegos/accesorios-consolas/playstation/#menu=categories",
+            "text": "Para PlayStation",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://listado.mercadolibre.com.co/consolas-videojuegos/accesorios-consolas/xbox/#menu=categories",
+            "text": "Para Xbox",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://listado.mercadolibre.com.co/consolas-videojuegos/videojuegos/#menu=categories",
+            "text": "Videojuegos",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/electronica-audio-y-video/televisores",
+            "text": "Televisores",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/ofertas#nav-header",
+            "text": "Ofertas",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/ofertas/supermercado#nav-header",
+            "text": "SupermercadoNuevo",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/ropa-y-accesorios#nav-header",
+            "text": "Moda",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/carros-motos-y-otros#c_id=/home/categories/element&c_category_id=MCO1743&c_uid=802db592-733e-4639-8b50-ffc64d2dfa11",
+            "text": "Carros, Motos y Otros",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/accesorios-para-vehiculos#c_id=/home/categories/element&c_category_id=MCO1747&c_uid=bbba8d76-a08c-4189-9891-5b0ed8e41c87",
+            "text": "Accesorios para Vehiculos",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/hogar-y-muebles#c_id=/home/categories/element&c_category_id=MCO1574&c_uid=ae110524-ca96-43e9-adc3-3f663aaf9cf2",
+            "text": "Hogar y Muebles",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/celulares-y-telefonos#c_id=/home/categories/element&c_category_id=MCO1051&c_uid=491e6792-321c-48f4-8362-666fe7a9e036",
+            "text": "Celulares y Telefonos",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/ropa-y-accesorios?gender=female#c_id=/home/categories/element&c_category_id=MCO1430&c_uid=4e7db9c6-d342-41a9-8c85-0596b6e43f1e",
+            "text": "Ropa y Accesorios",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/computacion#c_id=/home/categories/element&c_category_id=MCO1648&c_uid=226723b1-b86c-4bf4-aa86-ad2e26331350",
+            "text": "Computacion",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/electrodomesticos#c_id=/home/categories/element&c_category_id=MCO5726&c_uid=5c4a9a3b-b1df-4ab5-86e3-ab98492e1143",
+            "text": "Electrodomesticos",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/deportes-y-fitness#c_id=/home/categories/element&c_category_id=MCO1276&c_uid=6ab0e350-bf4a-463f-8773-81b8da005243",
+            "text": "Deportes y Fitness",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "http://www.mercadolibre.com.co/inmuebles/#c_id=/home/categories/element&c_category_id=MCO1459&c_uid=cedda2b1-f302-4876-978c-c8683347c529",
+            "text": "Inmuebles",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/herramientas#c_id=/home/categories/element&c_category_id=MCO175794&c_uid=64b8c9d1-83d4-4c28-b9e1-15eb475a7172",
+            "text": "Herramientas",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/belleza-y-cuidado-personal#c_id=/home/categories/element&c_category_id=MCO1246&c_uid=267f0587-f07e-4c55-b6a7-ad0a7836a2ef",
+            "text": "Belleza y Cuidado Personal",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/electronica-audio-y-video#c_id=/home/categories/element&c_category_id=MCO1000&c_uid=5680b51b-3860-4cd1-b0e0-77ed89cc7a99",
+            "text": "Electronica, Audio y Video",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/agro#c_id=/home/categories/element&c_category_id=MCO441917&c_uid=1b32f1d5-4c94-4bf2-9726-6e07e1c2999b",
+            "text": "Agro",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/alimentos-y-bebidas#c_id=/home/categories/element&c_category_id=MCO1403&c_uid=27cb8347-b6f1-4220-b3d2-c2f8413e7d9d",
+            "text": "Alimentos y Bebidas",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/antiguedades-y-colecciones#c_id=/home/categories/element&c_category_id=MCO1367&c_uid=a3a68908-c365-4ce9-a3d8-40a9aa9907b3",
+            "text": "Antiguedades y Colecciones",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/arte-papeleria-y-merceria#c_id=/home/categories/element&c_category_id=MCO1368&c_uid=240ac121-b3c9-4a6a-9398-adbb8c3711c1",
+            "text": "Arte, Papeleria y Merceria",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/bebes#c_id=/home/categories/element&c_category_id=MCO1384&c_uid=1f7f02ce-6710-4980-b170-4cbb37b404cd",
+            "text": "Bebes",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/boletas-para-espectaculos#c_id=/home/categories/element&c_category_id=MCO40433&c_uid=49894e36-d155-4e1c-bab9-7fb1a51c0bdb",
+            "text": "Boletas para Espectaculos",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/consolas-y-videojuegos#c_id=/home/categories/element&c_category_id=MCO1144&c_uid=17ea94fe-ceac-4e96-88f8-499ab98be6f8",
+            "text": "Consolas y Videojuegos",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/construccion#c_id=/home/categories/element&c_category_id=MCO172890&c_uid=558c324e-be8d-46fa-bcb9-43d500613315",
+            "text": "Construccion",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/camaras-y-accesorios#c_id=/home/categories/element&c_category_id=MCO1039&c_uid=ef0dc53c-dcb9-4d23-98ca-10b9e14881a6",
+            "text": "Camaras y Accesorios",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/industrias-y-oficinas#c_id=/home/categories/element&c_category_id=MCO1499&c_uid=4e05dd0c-614f-4d3f-aae6-85567cc1c7b4",
+            "text": "Industrias y Oficinas",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/instrumentos-musicales#c_id=/home/categories/element&c_category_id=MCO1182&c_uid=138a6f77-db90-4856-8c06-a7c4e6079936",
+            "text": "Instrumentos Musicales",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/juegos-y-juguetes#c_id=/home/categories/element&c_category_id=MCO1132&c_uid=78a43c4c-a099-46d8-a189-013a1b20f65a",
+            "text": "Juegos y Juguetes",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/libros-revistas-y-comics#c_id=/home/categories/element&c_category_id=MCO3025&c_uid=a7cc42dc-e48d-4349-a1b5-6e3dfdc2e54f",
+            "text": "Libros, Revistas y Comics",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/animales-y-mascotas#c_id=/home/categories/element&c_category_id=MCO1071&c_uid=83ce9c62-0bfd-4763-b502-d3b23d26f430",
+            "text": "Mascotas",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/musica-peliculas-y-series#c_id=/home/categories/element&c_category_id=MCO1168&c_uid=eb17b898-b155-430d-81f1-a710b2e3548d",
+            "text": "Musica, Peliculas y Series",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/recuerdos-pinateria-y-fiestas#c_id=/home/categories/element&c_category_id=MCO118204&c_uid=669bb46d-1cc3-464b-8d48-7b0f3389e8a8",
+            "text": "Recuerdos, Pinateria y Fiestas",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/relojes-y-joyas#c_id=/home/categories/element&c_category_id=MCO3937&c_uid=3bec79b2-8d3e-40ef-8931-eed1631a976b",
+            "text": "Relojes y Joyas",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/salud-y-equipamiento-medico#c_id=/home/categories/element&c_category_id=MCO180800&c_uid=6b754b24-2353-4d92-8954-a3a0b8f47ef2",
+            "text": "Salud y Equipamiento Medico",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://www.mercadolibre.com.co/c/servicios#c_id=/home/categories/element&c_category_id=MCO1540&c_uid=a5fdec21-a553-40e8-80ff-352447c4ba19",
+            "text": "Servicios",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://listado.mercadolibre.com.co/televisores#c_id=/home/categories/element&c_category_id=MCO1002&c_uid=c2c2d37a-f275-485f-8ea3-996b6c224eaa",
+            "text": "Televisores",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://listado.mercadolibre.com.co/air-fryer",
+            "text": "air fryer",
+            "title": "",
+            "base_domain": "mercadolibre.com.co"
+        },
+        {
+            "href": "https://listado.mercadolibre.com.co/aire-acondicionado",
+            "text": "aire acondicionado",
+            "title": ""
+        }
+    ]
+}
